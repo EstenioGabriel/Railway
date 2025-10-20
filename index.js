@@ -9,8 +9,14 @@ app.get("/login", function (req,res){
 
 // Segunda Rota
 app.get("/cadastro", function (req,res){
-	res.send("<h1>Segunda Rota</h1>
+    res.send("<h1>Segunda Rota</h1>")
+
+})// Terceira Rota
+app.get("/login/:nome", function (req,res){
+    res.send("<h1>Terceira Rota</h1>")
 })
+
+
 
 
 
