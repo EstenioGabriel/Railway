@@ -24,11 +24,11 @@ O repositório contém apenas os arquivos do Node.js e o `index.js` da aplicaç�
 
 ---
 ### Ferramentas Usadas
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="github" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" alt="git" height="40">
-<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="aws" height="40">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHryxUBlX-HFFxtZp6aA3n4sag0xPXXIL6A&s" alt="railWay" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" height="40">
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="github" height="40">](https://github.com/EstenioGabriel/TrabalhoDesenvolvimentoNuvem) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" alt="git" height="40">](https://git-scm.com/)
+[<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="aws" height="40">](https://aws.amazon.com/pt/free/?trk=ca1f5106-3c80-477a-93fd-1a3cea264b5c&sc_channel=ps&ef_id=EAIaIQobChMIz8-nxqu_kAMVw19IAB1B_BbUEAAYASAAEgKM9vD_BwE:G:s&s_kwcid=AL!4422!3!696214219374!e!!g!!aws!15278604629!130587771740&gad_campaignid=15278604629&gclid=EAIaIQobChMIz8-nxqu_kAMVw19IAB1B_BbUEAAYASAAEgKM9vD_BwE)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHryxUBlX-HFFxtZp6aA3n4sag0xPXXIL6A&s" alt="railWay" height="40">](https://railway.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" height="40">](https://nodejs.org/pt)
 
 ---
 
