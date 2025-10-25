@@ -1,15 +1,16 @@
+// Importando o express
 const express = require("express");
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.port || 8080;
 
 // Primeira rota
 app.get("/login", function (req,res){
-    res.send("<h1>Primeira Rota</h1>")
+    res.send("<h1>PRIMEIRA ROTA</h1> " + "<h3>Rota De Login</h3>")
 })
 
 
-console.log("PORT env: ", process.env.port);
-
+// Resposta do status do servidor
 app.listen(PORT, () => {
-    console.log(`Servidor Rodando Na Porta ${PORT}`);
+    console.log("SERVIDOR OLINE....");
+    console.log("PORTA:",PORT);
 })
